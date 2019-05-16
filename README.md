@@ -16,6 +16,7 @@ The notation is in the paper
 
 # Experimental result
 ![result](https://user-images.githubusercontent.com/37448236/57819611-3ea7f200-77c4-11e9-9cc1-8975e6c50ddd.PNG)
+
 |                   |    *sphere*    |*Rosenbrock's saddle*| *Griewangk#7* | *Rastrigin's function* | *Griewangk#14* |
 |:------------------|-----------------:|-----------------:|-----------------:|------------------:|----------------:|
 |  *paper's nfe*    |    406           |    654           |    12,752        |    12,971         |    8,691        |
